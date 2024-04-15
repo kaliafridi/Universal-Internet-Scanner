@@ -18,7 +18,7 @@ Before you begin, ensure you have the following installed:
 
 To set up the Universal Network Scanner on your local machine, follow these steps:
 
-1. Clone the repository:
+. Installation
    ```bash
    git clone https://github.com/yourusername/universal-network-scanner.git
    Navigate to the cloned directory:
