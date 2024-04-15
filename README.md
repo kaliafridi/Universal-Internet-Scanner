@@ -28,4 +28,17 @@ To set up the Universal Network Scanner on your local machine, follow these step
    Usage
    python network_scanner.py
 
+**Contributing**
+Contributions are what make the open source community such a powerful platform for learning, inspiring, and creating. Any contributions you make are greatly appreciated.
+
+If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
+
+Don't forget to give the project a star! Thanks again!
+
+**License**
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+**Acknowledgments**
+Thanks to all the contributors who invest their time into making our network environments more secure.
+Special thanks to The Universal Linux Society for supporting this project.
    
