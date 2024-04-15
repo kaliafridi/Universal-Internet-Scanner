@@ -28,6 +28,8 @@ To set up the Universal Network Scanner on your local machine, follow these step
    Usage
    python network_scanner.py
 
+____________________________________________________________________________________________
+
 **Contributing**
 Contributions are what make the open source community such a powerful platform for learning, inspiring, and creating. Any contributions you make are greatly appreciated.
 
