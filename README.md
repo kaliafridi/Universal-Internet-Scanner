@@ -18,13 +18,15 @@ Before you begin, ensure you have the following installed:
 
 To set up the Universal Network Scanner on your local machine, follow these steps:
 
-. Installation:
     ```bash
-    git clone https://github.com/yourusername/universal-network-scanner.git
+    git clone https://github.com/kaliafridi/Universal-Internet-Scanner
+
     Navigate to the cloned directory:
     cd universal-network-scanner
+
     Install the required dependencies:
     pip install -r requirements.txt
+
     Usage
     python network_scanner.py
 
