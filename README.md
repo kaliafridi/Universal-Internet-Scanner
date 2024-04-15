@@ -30,6 +30,16 @@ To set up the Universal Network Scanner on your local machine, follow these step
     Usage
     python network_scanner.py
 
+**Running the Script with Sufficient Privileges**
+Use sudo (for Linux/macOS):
+
+**Run as Administrator (for Windows):**
+If you are using Windows, you will need to open your command prompt as an administrator:
+
+Right-click on the Command Prompt application.
+Select "Run as administrator".
+Navigate to your script's directory and run it.
+
 ____________________________________________________________________________________________
 
 **Contributing**
